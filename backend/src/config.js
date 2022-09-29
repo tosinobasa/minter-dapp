@@ -9,7 +9,7 @@ const network = NETWORK.eth;
 // General metadata for Ethereum
 const namePrefix = "Women Kings";
 const description = "WomenKings NFT is an exclusive collection of 999 unique art pieces, each representing the rich cultural and ethnic diversities of the Lagos woman of the African continent. Created by Africans for Africans, we're on the journey to revolutionizing the robust web3 ecosystem in the continent and this project is just the first huge step forward.";
-const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
+const baseUri = "https://ipfs.io/ipfs/bafybeihgunltwoppnq4iculfcku7gnhgat4skogwfxpe5cqkt4pz7lltfy"; // This will be replaced automatically
 
 const layerConfigurations = [
   {
